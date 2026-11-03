@@ -1,0 +1,19 @@
+﻿id,categoria,tema,contenido,activo
+kb-01,horarios,Horarios de atención,"Abrimos de martes a domingo, de 11 a 15 y de 19 a 23. Los lunes está cerrado. Los feriados abrimos en el horario normal salvo que se avise por Instagram.",si
+kb-02,entrega,Retiro y delivery,"Se puede retirar en el local o pedir delivery. El delivery llega solo a la zona centro de Salta, dentro de unas 20 cuadras de la plaza 9 de Julio. Fuera de esa zona, solo retiro.",si
+kb-03,entrega,Costo y demora del envío,"El envío a la zona centro cuesta $2.500. La demora del delivery es de 30 a 40 minutos en horario normal y de 45 a 60 minutos los viernes, sábados y domingos a la noche. Para retirar, el pedido está listo en unos 20 minutos.",si
+kb-04,pagos,Medios de pago,"Aceptamos efectivo, transferencia y Mercado Pago (QR o link de pago). No aceptamos tarjeta de crédito; la tarjeta de débito se puede usar a través del QR de Mercado Pago. El pago lo coordina una persona del equipo al confirmar el pedido.",si
+kb-05,menu,Pollo al spiedo,Pollo al spiedo entero: $17.500. Medio pollo: $9.500. Se cocina en el día; los domingos a la noche puede agotarse temprano.,si
+kb-06,menu,Empanadas salteñas,"Empanadas salteñas al horno, de carne cortada a cuchillo, de pollo y de queso. Unidad: $1.400. Docena (se puede combinar sabores): $15.000. Media docena: $8.000.",si
+kb-07,menu,Milanesas,"Milanesa de carne con guarnición: $11.000. Milanesa de pollo con guarnición: $10.000. Napolitana: $2.000 más. La guarnición se elige entre papas fritas, puré o ensalada.",si
+kb-08,menu,Guarniciones,"Porción de papas fritas: $5.500. Puré de papas: $4.500. Ensalada mixta (lechuga, tomate y cebolla): $4.000.",si
+kb-09,menu,Promo familiar,Promo familiar: pollo al spiedo entero + porción grande de papas fritas + 6 empanadas a elección por $28.000. Vale todos los días que abrimos.,si
+kb-10,menu,Menú del día,"Menú del día de martes a viernes, solo al mediodía: plato del día + bebida chica por $12.000. Esta semana el plato es locro (martes y miércoles) y guiso de lentejas (jueves y viernes).",si
+kb-11,menu,Opciones sin carne y sin TACC,"Las empanadas de queso, el puré y la ensalada no llevan carne. No tenemos productos certificados sin TACC y en la cocina se usa harina, así que no podemos garantizar que algo sea apto para celíacos.",si
+kb-12,bebidas,Bebidas,"Gaseosa de 1,5 litros: $4.500. Agua mineral de 500 ml: $1.800. Gaseosa chica de 500 ml: $2.200. No vendemos bebidas alcohólicas.",si
+kb-13,pedidos,Cómo se hace un pedido,"Para pedir hace falta decir qué se quiere y si se retira o es delivery. Una persona del equipo confirma el pedido, el total, la dirección y el pago por este mismo chat.",si
+kb-14,pedidos,Pedidos grandes y eventos,Para pedidos grandes (más de 4 pollos o más de 5 docenas de empanadas) hay que avisar con 24 horas de anticipación. Los coordina una persona del equipo.,si
+kb-15,reclamos,Reclamos,"Si un pedido llegó mal, incompleto o muy demorado, una persona del equipo lo resuelve por este chat. Ayuda tener a mano el nombre con el que se hizo el pedido y, si se puede, una foto.",si
+kb-16,local,Ubicación del local,El local está en la zona centro de Salta. La dirección exacta la pasa una persona del equipo cuando se confirma un pedido para retirar. (Negocio ficticio: no hay dirección real.),si
+kb-17,menu,Promo vieja (desactivada),Promo de octubre: docena de empanadas a $12.000. Ya no está vigente.,no
+kb-18,general,Sobre el negocio,"Rotisería Del Valle es una rotisería familiar de Salta (negocio ficticio, creado para una práctica de Coderhouse). Todos los precios de esta planilla son ficticios.",si
